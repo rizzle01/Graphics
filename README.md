@@ -13,5 +13,5 @@ This is to get the texture of the grainy sand and then of course the signature y
 
 //Part 4
 
-I used one of the shaders we learned to make a marble! I did this by dragging a texture into the code to give it a swirl effect
+I used one of the shaders we learned to make a marble! I did this by dragging a texture into the code to give it a swirl effect. This was created though colour and metalic shaders.
 
